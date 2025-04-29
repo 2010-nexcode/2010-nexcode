@@ -21,8 +21,8 @@ I’m a **young creator**, **developer**, and the visionary behind **NexCode** �
 
 ## 📫 Connect with Me
 
-- Email: yourname@example.com  
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: robinsongoodwill6@gmail.com  
+- GitHub: [2010-nexcode](https://github.com/yourusername)
 
 > “Code your dream. Change the world.”
 
